@@ -1,4 +1,4 @@
-# User-Product-Manager
+# User-Product-Management
 
 ## Project overview
 
